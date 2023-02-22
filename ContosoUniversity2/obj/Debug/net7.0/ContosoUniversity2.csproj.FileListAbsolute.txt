@@ -1,8 +1,0 @@
-C:\Users\Peng\source\repos\ContosoUniversity2\ContosoUniversity2\obj\Debug\net7.0\ContosoUniversity2.csproj.AssemblyReference.cache
-C:\Users\Peng\source\repos\ContosoUniversity2\ContosoUniversity2\obj\Debug\net7.0\ContosoUniversity2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Peng\source\repos\ContosoUniversity2\ContosoUniversity2\obj\Debug\net7.0\ContosoUniversity2.AssemblyInfoInputs.cache
-C:\Users\Peng\source\repos\ContosoUniversity2\ContosoUniversity2\obj\Debug\net7.0\ContosoUniversity2.AssemblyInfo.cs
-C:\Users\Peng\source\repos\ContosoUniversity2\ContosoUniversity2\obj\Debug\net7.0\ContosoUniversity2.csproj.CoreCompileInputs.cache
-C:\Users\Peng\source\repos\ContosoUniversity2\ContosoUniversity2\obj\Debug\net7.0\ContosoUniversity2.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Peng\source\repos\ContosoUniversity2\ContosoUniversity2\obj\Debug\net7.0\ContosoUniversity2.RazorAssemblyInfo.cache
-C:\Users\Peng\source\repos\ContosoUniversity2\ContosoUniversity2\obj\Debug\net7.0\ContosoUniversity2.RazorAssemblyInfo.cs
